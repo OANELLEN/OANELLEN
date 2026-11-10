@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I am Oanellen 👋
 
-<!--
-**OANELLEN/OANELLEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Scientist | Data Analyst
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🎓 B.Ed. Science Education (Integrated Science)
+- 📊 Interested in Data Science and Data Analytics
+- 🌱 Currently learning Python, SQL and Data Visualization
+- 🔍 Interested in using data to solve real-world problems.
+
+## Tools and Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SQL (Learning)
+
+## Current Goals
+- Build practical data analysis projects.
+- Improve my Python and SQL skills.
+- Collaborate with other data enthusiasts.
+- Develop solutions to real-world problems.
+
+## Projects
+Coming soon!
